@@ -1,0 +1,20 @@
+DROP TABLE Votes;
+DROP TABLE Comments;
+DROP TABLE Reviews;
+DROP TABLE Genres;
+DROP TABLE Roles;
+DROP TABLE Scene;
+DROP TABLE Nominated_Movie;
+DROP TABLE Movie;
+DROP TABLE Guest;
+DROP TABLE Episode;
+DROP TABLE TV_Series;
+DROP TABLE Minor;
+DROP TABLE Adult;
+DROP TABLE Profile_Photo;
+DROP TABLE Personal_Photo;
+DROP TABLE Pro_Comp;
+DROP TABLE Person;
+DROP TABLE Nomination;
+DROP TABLE IMDB_User;
+
